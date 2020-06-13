@@ -8,9 +8,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2020-06-06 02:17+0000\n"
+"PO-Revision-Date: 2020-06-13 06:45+0000\n"
 "Last-Translator: \n"
-"Language-Team: \n"
+"Language-Team: Vietnamese\n"
 "X-Generator: Loco https://localise.biz/\n"
 "Language: vi\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -165,7 +165,7 @@ msgstr ""
 #: header-elements/account.php:23 inc/modules/sticky-toolbar.php:30
 #: inc/modules/sticky-toolbar.php:79 woocommerce/checkout/thankyou.php:41
 msgid "My account"
-msgstr ""
+msgstr "Tài khoản"
 
 #: header-elements/burger.php:20 header-elements/main-menu.php:23
 #: inc/builder/elements/Menu.php:23 inc/modules/sticky-toolbar.php:440
@@ -211,7 +211,7 @@ msgstr ""
 #: inc/builder/elements/Search.php:22 inc/modules/sticky-toolbar.php:65
 #: inc/modules/sticky-toolbar.php:93 inc/modules/sticky-toolbar.php:317
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #: header-elements/wishlist.php:20
 msgid "My Wishlist"
@@ -11041,7 +11041,7 @@ msgstr ""
 
 #: inc/integrations/woocommerce/template-tags.php:1409
 msgid "My Account"
-msgstr ""
+msgstr "Tài khoản"
 
 #: inc/integrations/woocommerce/template-tags.php:1418
 msgid "Hello, %s"
@@ -12059,7 +12059,7 @@ msgstr ""
 
 #: inc/widgets/class-widget-search.php:30
 msgid "Search products"
-msgstr ""
+msgstr "Tìm sản phẩm"
 
 #: inc/widgets/class-widget-search.php:66
 msgid "Show categories"
@@ -12534,7 +12534,7 @@ msgstr ""
 #: inc/modules/search.php:87
 msgctxt "submit button"
 msgid "Search for products"
-msgstr ""
+msgstr "Tìm kiếm sản phẩm"
 
 #: inc/modules/search.php:92
 msgctxt "submit button"
@@ -12549,7 +12549,7 @@ msgstr ""
 #: inc/modules/search.php:116
 msgctxt "submit button"
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #: inc/modules/sticky-toolbar.php:218
 msgctxt "toolbar"
@@ -12559,7 +12559,7 @@ msgstr ""
 #: inc/modules/sticky-toolbar.php:345
 msgctxt "toolbar"
 msgid "My account"
-msgstr ""
+msgstr "Tài khoản"
 
 #: inc/template-tags.php:946
 msgctxt "monthly archives date format"
